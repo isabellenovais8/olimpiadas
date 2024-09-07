@@ -22,21 +22,3 @@ Imagina um site onde você pode digitar o nome de qualquer atleta ou esporte e, 
 1. **Clone o repositório:** Faça um clone desse repositório para o seu computador.
 2. **Abra o index.html:** Abra o arquivo index.html no seu navegador favorito.
 3. **Comece a pesquisar:** Divirta-se pesquisando por seus atletas favoritos!
-
-**O que mais podemos adicionar?**
-
-* **Filtros:** Poderíamos adicionar filtros para buscar por esporte, país ou até mesmo por medalhas conquistadas.
-* **Gráficos:** Seria legal mostrar alguns gráficos com estatísticas sobre os atletas, como idade, altura e peso.
-* **Compartilhamento:** Que tal permitir que os usuários compartilhem os resultados da pesquisa nas redes sociais?
-
-**E aí, curtiu?** Se você quiser contribuir com o projeto, fique à vontade para abrir um pull request! 
-
-**Observação:** Essa é apenas uma sugestão de README.md para deixar o seu projeto mais divertido e convidativo. Você pode adaptá-lo da forma que preferir, adicionando mais detalhes ou informações relevantes.
-
-**Outras ideias para deixar o README mais interessante:**
-
-* **GIFs animados:** Use GIFs animados para ilustrar como a aplicação funciona.
-* **Memes:** Se o tema permitir, use memes para deixar o README mais leve e divertido.
-* **Emojis:** Emojis ajudam a tornar o texto mais expressivo e fácil de ler.
-
-Lembre-se que o README.md é a primeira impressão que as pessoas terão do seu projeto, então capriche na apresentação!
